@@ -1,0 +1,6 @@
+[29-Sep-2019 04:52:25 UTC] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/signumsolutions/public_html/demo/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[29-Sep-2019 04:52:27 UTC] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/signumsolutions/public_html/demo/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[29-Sep-2019 17:19:09 UTC] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/signumsolutions/public_html/demo/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[29-Sep-2019 17:19:12 UTC] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/signumsolutions/public_html/demo/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[03-Oct-2019 21:36:59 UTC] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/signumsolutions/public_html/demo/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[03-Oct-2019 21:37:02 UTC] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/signumsolutions/public_html/demo/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7

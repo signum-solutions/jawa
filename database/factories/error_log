@@ -1,0 +1,16 @@
+[15-Mar-2019 17:51:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/signumsolutions/public_html/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/signumsolutions/public_html/database/factories/UserFactory.php on line 16
+[29-Sep-2019 04:52:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/signumsolutions/public_html/demo/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/signumsolutions/public_html/demo/database/factories/UserFactory.php on line 16
+[29-Sep-2019 17:19:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/signumsolutions/public_html/demo/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/signumsolutions/public_html/demo/database/factories/UserFactory.php on line 16
+[03-Oct-2019 21:36:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/signumsolutions/public_html/demo/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/signumsolutions/public_html/demo/database/factories/UserFactory.php on line 16

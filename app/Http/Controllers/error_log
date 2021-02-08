@@ -1,0 +1,12 @@
+[29-Sep-2019 05:12:47 UTC] PHP Fatal error:  Class 'Illuminate\Routing\Controller' not found in /home/signumsolutions/public_html/demo/app/Http/Controllers/AdminController.php on line 18
+[29-Sep-2019 05:12:54 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/signumsolutions/public_html/demo/app/Http/Controllers/AuthController.php on line 11
+[29-Sep-2019 05:12:57 UTC] PHP Fatal error:  Class 'Illuminate\Routing\Controller' not found in /home/signumsolutions/public_html/demo/app/Http/Controllers/Controller.php on line 10
+[29-Sep-2019 05:13:00 UTC] PHP Fatal error:  Class 'Illuminate\Routing\Controller' not found in /home/signumsolutions/public_html/demo/app/Http/Controllers/UserController.php on line 22
+[29-Sep-2019 17:17:14 UTC] PHP Fatal error:  Class 'Illuminate\Routing\Controller' not found in /home/signumsolutions/public_html/demo/app/Http/Controllers/AdminController.php on line 18
+[29-Sep-2019 17:17:18 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/signumsolutions/public_html/demo/app/Http/Controllers/AuthController.php on line 11
+[29-Sep-2019 17:17:20 UTC] PHP Fatal error:  Class 'Illuminate\Routing\Controller' not found in /home/signumsolutions/public_html/demo/app/Http/Controllers/Controller.php on line 10
+[29-Sep-2019 17:17:21 UTC] PHP Fatal error:  Class 'Illuminate\Routing\Controller' not found in /home/signumsolutions/public_html/demo/app/Http/Controllers/UserController.php on line 22
+[02-Oct-2019 20:51:35 UTC] PHP Fatal error:  Class 'Illuminate\Routing\Controller' not found in /home/signumsolutions/public_html/demo/app/Http/Controllers/AdminController.php on line 18
+[02-Oct-2019 20:51:38 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/signumsolutions/public_html/demo/app/Http/Controllers/AuthController.php on line 11
+[02-Oct-2019 20:51:40 UTC] PHP Fatal error:  Class 'Illuminate\Routing\Controller' not found in /home/signumsolutions/public_html/demo/app/Http/Controllers/Controller.php on line 10
+[02-Oct-2019 20:51:42 UTC] PHP Fatal error:  Class 'Illuminate\Routing\Controller' not found in /home/signumsolutions/public_html/demo/app/Http/Controllers/UserController.php on line 22

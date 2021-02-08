@@ -1,0 +1,52 @@
+[01-Jul-2019 11:40:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/signumsolutions/public_html/demo/routes/web.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/signumsolutions/public_html/demo/routes/web.php on line 18
+[29-Sep-2019 04:45:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/signumsolutions/public_html/demo/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/signumsolutions/public_html/demo/routes/channels.php on line 14
+[29-Sep-2019 04:45:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/signumsolutions/public_html/demo/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/signumsolutions/public_html/demo/routes/api.php on line 17
+[29-Sep-2019 04:45:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/signumsolutions/public_html/demo/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/signumsolutions/public_html/demo/routes/console.php on line 16
+[29-Sep-2019 04:45:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/signumsolutions/public_html/demo/routes/web.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/signumsolutions/public_html/demo/routes/web.php on line 18
+[29-Sep-2019 17:20:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/signumsolutions/public_html/demo/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/signumsolutions/public_html/demo/routes/api.php on line 17
+[29-Sep-2019 17:20:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/signumsolutions/public_html/demo/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/signumsolutions/public_html/demo/routes/channels.php on line 14
+[29-Sep-2019 17:20:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/signumsolutions/public_html/demo/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/signumsolutions/public_html/demo/routes/console.php on line 16
+[29-Sep-2019 17:20:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/signumsolutions/public_html/demo/routes/web.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/signumsolutions/public_html/demo/routes/web.php on line 18
+[02-Oct-2019 20:54:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/signumsolutions/public_html/demo/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/signumsolutions/public_html/demo/routes/api.php on line 17
+[02-Oct-2019 20:54:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/signumsolutions/public_html/demo/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/signumsolutions/public_html/demo/routes/channels.php on line 14
+[02-Oct-2019 20:54:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/signumsolutions/public_html/demo/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/signumsolutions/public_html/demo/routes/console.php on line 16
+[02-Oct-2019 20:54:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/signumsolutions/public_html/demo/routes/web.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/signumsolutions/public_html/demo/routes/web.php on line 18

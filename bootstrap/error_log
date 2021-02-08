@@ -1,0 +1,28 @@
+[12-Mar-2019 18:40:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/signumsolutions/public_html/dev/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/signumsolutions/public_html/dev/bootstrap/app.php on line 14
+[27-Mar-2019 08:39:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/signumsolutions/public_html/dev/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/signumsolutions/public_html/dev/bootstrap/app.php on line 14
+[03-Apr-2019 18:50:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/signumsolutions/public_html/dev/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/signumsolutions/public_html/dev/bootstrap/app.php on line 14
+[07-May-2019 15:42:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/signumsolutions/public_html/dev/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/signumsolutions/public_html/dev/bootstrap/app.php on line 14
+[29-Sep-2019 04:42:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/signumsolutions/public_html/demo/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/signumsolutions/public_html/demo/bootstrap/app.php on line 14
+[29-Sep-2019 17:18:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/signumsolutions/public_html/demo/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/signumsolutions/public_html/demo/bootstrap/app.php on line 14
+[02-Oct-2019 20:52:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/signumsolutions/public_html/demo/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/signumsolutions/public_html/demo/bootstrap/app.php on line 14

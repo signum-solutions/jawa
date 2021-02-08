@@ -1,0 +1,1 @@
+[29-Sep-2019 04:51:01 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/signumsolutions/public_html/demo/app/Exceptions/Handler.php on line 8
